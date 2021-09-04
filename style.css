@@ -1,0 +1,40 @@
+header {
+  border: 2px solid green;
+  background-color: lightblue;
+}
+
+main {
+  border: 5px dotted black;
+  color: white;
+  font-size: 20px;
+  background-color: brown;
+  font-family: "Courier New", Courier, monospace;
+}
+a {
+  color: black;
+  margin: 0 40px;
+}
+header,
+main {
+  margin-bottom: 10px;
+  padding: 10px;
+  padding: 10px 10px 10px 10px;
+  width: 50%;
+  margin: 12px auto;
+}
+
+.horizontaal li {
+  display: inline;
+}
+.horizontaal {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+
+main img {
+  width: 250px;
+  border: 3px solid red;
+  border-radius: 10px;
+}
